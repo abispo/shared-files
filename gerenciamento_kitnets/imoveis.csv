@@ -1,21 +1,21 @@
-tipo_logradouro;logradouro;numero;complemento;bairro;cidade;estado;descricao;disponivel
-Rua;das Flores;123;;Centro;Joinville;SC;Kitnet de 30m² com quarto, cozinha e banheiro.;1
-Avenida;dos Pássaros;456;Apto 101;Jardim Botânico;Florianópolis;SC;Kitnet mobiliada com 40m², próximo ao metrô.;1
-Rua;das Palmeiras;789;;Centro;Blumenau;SC;Kitnet aconchegante de 25m² com sala, cozinha e banheiro.;0
-Avenida;das Rosas;987;Apto 102;Floresta;Blumenau;SC;Kitnet térrea de 35m² com quarto, cozinha americana e banheiro.;1
-Rua;das Pedras;654;;Praia do Forte;Balneário Camboriú;SC;Kitnet com vista para o mar, 50m², próximo à praia.;1
-Rua;das Tulipas;321;;Jardim Europa;Joinville;SC;Kitnet moderna de 40m² com área de serviço.;1
-Avenida;das Orquídeas;852;Apto 201;Jardim Botânico;Florianópolis;SC;Kitnet mobiliada com 30m², próximo a comércios.;0
-Rua;das Margaridas;147;;Jardim América;Joinville;SC;Kitnet compacta de 20m² com cozinha integrada.;1
-Avenida;dos Girassóis;369;Apto 103;Setor Oeste;Joinville;SC;Kitnet ampla de 45m² com varanda.;1
-Rua;das Violetas;753;;Centro;Blumenau;SC;Kitnet térrea de 35m² com área externa.;1
-Avenida;das Acácias;159;Apto 204;Barra da Tijuca;Balneário Camboriú;SC;Kitnet espaçosa de 50m² com área de lazer.;1
-Rua;dos Lírios;852;;Centro;Florianópolis;SC;Kitnet funcional de 30m² com vista para a cidade.;1
-Avenida;das Hortênsias;753;Apto 103;Jardim das Flores;Joinville;SC;Kitnet mobiliada de 40m² com vaga de garagem.;1
-Rua;das Begônias;369;;Jardim Botânico;Florianópolis;SC;Kitnet reformada de 25m² com excelente localização.;1
-Avenida;das Papoulas;159;Apto 102;Centro;Blumenau;SC;Kitnet de 30m² com área de serviço integrada.;1
-Rua;das Magnólias;456;;Jardim América;Joinville;SC;Kitnet térrea de 35m² com jardim privativo.;1
-Avenida;dos Ipês;753;Apto 301;Barra da Tijuca;Balneário Camboriú;SC;Kitnet com vista panorâmica de 40m².;0
-Rua;das Azaleias;852;;Centro;Blumenau;SC;Kitnet compacta de 20m² com móveis planejados.;1
-Avenida;das Gérberas;369;Apto 202;Jardim das Flores;Florianópolis;SC;Kitnet de 25m² com área de lazer compartilhada.;1
-Rua;das Bromélias;159;;Jardim Botânico;Joinville;SC;Kitnet com varanda gourmet de 30m².;1
+id;tipo_logradouro;logradouro;numero;complemento;bairro;cidade;estado;descricao;disponivel
+c421c3b6-1d03-4be5-9b58-d6fdd8e6f7f0;Rua;das Flores;123;;Centro;Joinville;SC;Kitnet de 30m² com quarto, cozinha e banheiro.;1
+246fdd29-63f6-44f6-af07-9d5db72c68c2;Avenida;dos Pássaros;456;Apto 101;Jardim Botânico;Florianópolis;SC;Kitnet mobiliada com 40m², próximo ao metrô.;1
+d3e82c9f-3d3f-4d69-bc51-4d5db4c4d5fc;Rua;das Palmeiras;789;;Centro;Blumenau;SC;Kitnet aconchegante de 25m² com sala, cozinha e banheiro.;0
+bfddcd25-8ba8-43f5-aa6c-7d15f493b614;Avenida;das Rosas;987;Apto 102;Floresta;Blumenau;SC;Kitnet térrea de 35m² com quarto, cozinha americana e banheiro.;1
+1e1fe39b-4c96-4e34-b8d5-68af3ecfc3e8;Rua;das Pedras;654;;Praia do Forte;Balneário Camboriú;SC;Kitnet com vista para o mar, 50m², próximo à praia.;1
+7b22dcea-b49f-4324-8abf-cf3a58707d6e;Rua;das Tulipas;321;;Jardim Europa;Joinville;SC;Kitnet moderna de 40m² com área de serviço.;1
+b94f5e82-df50-466f-a18b-905707e33017;Avenida;das Orquídeas;852;Apto 201;Jardim Botânico;Florianópolis;SC;Kitnet mobiliada com 30m², próximo a comércios.;0
+0f5a28b4-4cf0-4874-8a8e-0f14fe5f8c6e;Rua;das Margaridas;147;;Jardim América;Joinville;SC;Kitnet compacta de 20m² com cozinha integrada.;1
+80b5db19-13e1-4b56-8c59-07e4bc697286;Avenida;dos Girassóis;369;Apto 103;Setor Oeste;Joinville;SC;Kitnet ampla de 45m² com varanda.;1
+cd3890a2-94a2-44d8-91e8-b946f1d1e6a0;Rua;das Violetas;753;;Centro;Blumenau;SC;Kitnet térrea de 35m² com área externa.;1
+1845e15c-48a0-4a43-9355-7ab0d9985e68;Avenida;das Acácias;159;Apto 204;Barra da Tijuca;Balneário Camboriú;SC;Kitnet espaçosa de 50m² com área de lazer.;1
+a3123df5-2852-4469-a9c1-9e5cf144f15e;Rua;dos Lírios;852;;Centro;Florianópolis;SC;Kitnet funcional de 30m² com vista para a cidade.;1
+5bfb5c1b-5d22-40bc-bb1c-8cc8df89e924;Avenida;das Hortênsias;753;Apto 103;Jardim das Flores;Joinville;SC;Kitnet mobiliada de 40m² com vaga de garagem.;1
+2ff317d4-67ed-4829-a158-4eddf71de2c3;Rua;das Begônias;369;;Jardim Botânico;Florianópolis;SC;Kitnet reformada de 25m² com excelente localização.;1
+1af7aecd-8ad3-4e60-8e28-515c82165a7c;Avenida;das Papoulas;159;Apto 102;Centro;Blumenau;SC;Kitnet de 30m² com área de serviço integrada.;1
+dbbc0c7b-99c3-4055-bf56-6a871422f3ad;Rua;das Magnólias;456;;Jardim América;Joinville;SC;Kitnet térrea de 35m² com jardim privativo.;1
+6c5e25cb-94b7-4de5-8643-19b3d07b4cb0;Avenida;dos Ipês;753;Apto 301;Barra da Tijuca;Balneário Camboriú;SC;Kitnet com vista panorâmica de 40m².;0
+68e78f4d-1e39-4a4e-b6b3-1c3721e10e53;Rua;das Azaleias;852;;Centro;Blumenau;SC;Kitnet compacta de 20m² com móveis planejados.;1
+ac36cb9f-b6b7-43ed-8c48-453d4093635f;Avenida;das Gérberas;369;Apto 202;Jardim das Flores;Florianópolis;SC;Kitnet de 25m² com área de lazer compartilhada.;1
+67ae2820-3f82-4483-b4d5-5d04a80d3fa5;Rua;das Bromélias;159;;Jardim Botânico;Joinville;SC;Kitnet com varanda gourmet de 30m².;1
