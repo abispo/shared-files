@@ -1,195 +1,195 @@
 [
     {
         "pergunta": "Você costuma praticar exercícios físicos com frequência?",
-        "opções": [
-            "Sim",
-            "Não"
+        "opcoes": [
+            {"texto": "Sim", "votos": 3},
+            {"texto": "Não", "votos": 2}
         ]
     },
     {
         "pergunta": "Qual é o seu prato favorito?",
-        "opções": [
-            "Arroz com feijão",
-            "Pizza",
-            "Churrasco",
-            "Sushi",
-            "Hambúrguer"
+        "opcoes": [
+            {"texto": "Arroz com feijão", "votos": 1},
+            {"texto": "Pizza", "votos": 4},
+            {"texto": "Churrasco", "votos": 2},
+            {"texto": "Sushi", "votos": 5},
+            {"texto": "Hambúrguer", "votos": 3}
         ]
     },
     {
         "pergunta": "Qual é o seu tipo de música preferido?",
-        "opções": [
-            "Rock",
-            "Pop",
-            "Hip-hop/Rap",
-            "Sertanejo",
-            "MPB"
+        "opcoes": [
+            {"texto": "Rock", "votos": 0},
+            {"texto": "Pop", "votos": 5},
+            {"texto": "Hip-hop/Rap", "votos": 4},
+            {"texto": "Sertanejo", "votos": 2},
+            {"texto": "MPB", "votos": 1}
         ]
     },
     {
         "pergunta": "Qual é o seu gênero de filme favorito?",
-        "opções": [
-            "Ação",
-            "Comédia",
-            "Drama",
-            "Terror",
-            "Animação"
+        "opcoes": [
+            {"texto": "Ação", "votos": 4},
+            {"texto": "Comédia", "votos": 5},
+            {"texto": "Drama", "votos": 2},
+            {"texto": "Terror", "votos": 1},
+            {"texto": "Animação", "votos": 3}
         ]
     },
     {
         "pergunta": "Qual é o seu animal favorito?",
-        "opções": [
-            "Cachorro",
-            "Gato",
-            "Leão",
-            "Elefante",
-            "Panda"
+        "opcoes": [
+            {"texto": "Cachorro", "votos": 5},
+            {"texto": "Gato", "votos": 4},
+            {"texto": "Leão", "votos": 2},
+            {"texto": "Elefante", "votos": 1},
+            {"texto": "Panda", "votos": 0}
         ]
     },
     {
         "pergunta": "Qual é o seu esporte favorito?",
-        "opções": [
-            "Futebol",
-            "Basquete",
-            "Vôlei",
-            "Tênis",
-            "Natação"
+        "opcoes": [
+            {"texto": "Futebol", "votos": 5},
+            {"texto": "Basquete", "votos": 3},
+            {"texto": "Vôlei", "votos": 2},
+            {"texto": "Tênis", "votos": 1},
+            {"texto": "Natação", "votos": 4}
         ]
     },
     {
         "pergunta": "Qual é a sua cor favorita?",
-        "opções": [
-            "Azul",
-            "Verde",
-            "Amarelo",
-            "Vermelho",
-            "Preto"
+        "opcoes": [
+            {"texto": "Azul", "votos": 3},
+            {"texto": "Verde", "votos": 2},
+            {"texto": "Amarelo", "votos": 4},
+            {"texto": "Vermelho", "votos": 1},
+            {"texto": "Preto", "votos": 5}
         ]
     },
     {
         "pergunta": "Qual é o seu destino de viagem dos sonhos?",
-        "opções": [
-            "Paris, França",
-            "Nova York, Estados Unidos",
-            "Tóquio, Japão",
-            "Sydney, Austrália",
-            "Rio de Janeiro, Brasil"
+        "opcoes": [
+            {"texto": "Paris, França", "votos": 4},
+            {"texto": "Nova York, Estados Unidos", "votos": 5},
+            {"texto": "Tóquio, Japão", "votos": 3},
+            {"texto": "Sydney, Austrália", "votos": 2},
+            {"texto": "Rio de Janeiro, Brasil", "votos": 1}
         ]
     },
     {
         "pergunta": "Qual é o seu estilo de roupa favorito?",
-        "opções": [
-            "Casual",
-            "Esportivo",
-            "Formal",
-            "Rock",
-            "Boho"
+        "opcoes": [
+            {"texto": "Casual", "votos": 5},
+            {"texto": "Esportivo", "votos": 3},
+            {"texto": "Formal", "votos": 2},
+            {"texto": "Rock", "votos": 1},
+            {"texto": "Boho", "votos": 4}
         ]
     },
     {
         "pergunta": "Qual é a sua bebida alcoólica preferida?",
-        "opções": [
-            "Cerveja",
-            "Vinho",
-            "Whisky",
-            "Tequila",
-            "Gin"
+        "opcoes": [
+            {"texto": "Cerveja", "votos": 4},
+            {"texto": "Vinho", "votos": 5},
+            {"texto": "Whisky", "votos": 2},
+            {"texto": "Tequila", "votos": 1},
+            {"texto": "Gin", "votos": 3}
         ]
     },
     {
         "pergunta": "Qual é a sua estação do ano favorita?",
-        "opções": [
-            "Verão",
-            "Inverno",
-            "Outono",
-            "Primavera"
+        "opcoes": [
+            {"texto": "Verão", "votos": 3},
+            {"texto": "Inverno", "votos": 4},
+            {"texto": "Outono", "votos": 2},
+            {"texto": "Primavera", "votos": 5}
         ]
     },
     {
         "pergunta": "Qual é o seu tipo de livro preferido?",
-        "opções": [
-            "Romance",
-            "Aventura",
-            "Ficção científica",
-            "Mistério",
-            "Não gosto de ler"
+        "opcoes": [
+            {"texto": "Romance", "votos": 5},
+            {"texto": "Aventura", "votos": 3},
+            {"texto": "Ficção científica", "votos": 2},
+            {"texto": "Mistério", "votos": 1},
+            {"texto": "Não gosto de ler", "votos": 4}
         ]
     },
     {
         "pergunta": "Qual é a sua rede social preferida?",
-        "opções": [
-            "Facebook",
-            "Instagram",
-            "Twitter",
-            "LinkedIn",
-            "Não uso redes sociais"
+        "opcoes": [
+            {"texto": "Facebook", "votos": 4},
+            {"texto": "Instagram", "votos": 5},
+            {"texto": "Twitter", "votos": 3},
+            {"texto": "LinkedIn", "votos": 2},
+            {"texto": "Não uso redes sociais", "votos": 1}
         ]
     },
     {
         "pergunta": "Qual é a sua sobremesa favorita?",
-        "opções": [
-            "Bolo",
-            "Sorvete",
-            "Torta",
-            "Pudim",
-            "Brigadeiro"
+        "opcoes": [
+            {"texto": "Bolo", "votos": 5},
+            {"texto": "Sorvete", "votos": 4},
+            {"texto": "Torta", "votos": 2},
+            {"texto": "Pudim", "votos": 1},
+            {"texto": "Brigadeiro", "votos": 3}
         ]
     },
     {
         "pergunta": "Você prefere praia ou montanha?",
-        "opções": [
-            "Praia",
-            "Montanha"
+        "opcoes": [
+            {"texto": "Praia", "votos": 4},
+            {"texto": "Montanha", "votos": 5}
         ]
     },
     {
         "pergunta": "Qual é o seu programa de TV favorito?",
-        "opções": [
-            "Game of Thrones",
-            "Friends",
-            "Breaking Bad",
-            "The Big Bang Theory",
-            "Não assisto TV"
+        "opcoes": [
+            {"texto": "Game of Thrones", "votos": 5},
+            {"texto": "Friends", "votos": 4},
+            {"texto": "Breaking Bad", "votos": 3},
+            {"texto": "The Big Bang Theory", "votos": 2},
+            {"texto": "Não assisto TV", "votos": 1}
         ]
     },
     {
         "pergunta": "Qual é a sua marca de roupas favorita?",
-        "opções": [
-            "Nike",
-            "Adidas",
-            "Gucci",
-            "Zara",
-            "Não tenho uma marca favorita"
+        "opcoes": [
+            {"texto": "Nike", "votos": 3},
+            {"texto": "Adidas", "votos": 5},
+            {"texto": "Gucci", "votos": 4},
+            {"texto": "Zara", "votos": 2},
+            {"texto": "Não tenho uma marca favorita", "votos": 1}
         ]
     },
     {
         "pergunta": "Qual é o seu hobby preferido?",
-        "opções": [
-            "Cozinhar",
-            "Viajar",
-            "Assistir filmes",
-            "Praticar esportes",
-            "Ler"
+        "opcoes": [
+            {"texto": "Cozinhar", "votos": 5},
+            {"texto": "Viajar", "votos": 4},
+            {"texto": "Assistir filmes", "votos": 3},
+            {"texto": "Praticar esportes", "votos": 2},
+            {"texto": "Ler", "votos": 1}
         ]
     },
     {
         "pergunta": "Qual é a sua estrela do cinema favorita?",
-        "opções": [
-            "Leonardo DiCaprio",
-            "Meryl Streep",
-            "Tom Hanks",
-            "Angelina Jolie",
-            "Não tenho uma estrela favorita"
+        "opcoes": [
+            {"texto": "Leonardo DiCaprio", "votos": 5},
+            {"texto": "Meryl Streep", "votos": 4},
+            {"texto": "Tom Hanks", "votos": 3},
+            {"texto": "Angelina Jolie", "votos": 2},
+            {"texto": "Não tenho uma estrela favorita", "votos": 1}
         ]
     },
     {
         "pergunta": "Qual é o seu jogo de videogame favorito?",
-        "opções": [
-            "Super Mario Bros.",
-            "The Legend of Zelda",
-            "GTA",
-            "FIFA",
-            "Não jogo videogame"
+        "opcoes": [
+            {"texto": "Super Mario Bros.", "votos": 4},
+            {"texto": "The Legend of Zelda", "votos": 5},
+            {"texto": "GTA", "votos": 2},
+            {"texto": "FIFA", "votos": 3},
+            {"texto": "Não jogo videogame", "votos": 1}
         ]
     }
 ]
